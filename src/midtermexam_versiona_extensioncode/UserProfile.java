@@ -17,6 +17,8 @@ package midtermexam_versiona_extensioncode;
 public class UserProfile
 {
 
+    //updated UserProfile.java on GitHub for the midterm assignment
+
     private String userID;
     private String genre;
     private String[] genres = {"Comedy", "Drama", "Action", "Mystery"};
